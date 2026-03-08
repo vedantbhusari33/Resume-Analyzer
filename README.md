@@ -7,7 +7,7 @@ AI-powered platform that analyzes resumes, detects skill gaps, and provides pers
 ## 🎥 Project Resources
 
 📂 **Project Drive (PPT + Demo Video + Pitch Video)**  
-[Add Google Drive Link Here]
+https://drive.google.com/drive/folders/14rdoWUvQAy9ugHdDo2KX-pe6F3yDO8wY
 
 ---
 
