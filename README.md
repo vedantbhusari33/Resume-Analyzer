@@ -1,20 +1,95 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 AI Resume Analyzer & Skill Improvement Platform
 
-# Run and deploy your AI Studio app
+An AI-powered web application that analyzes resumes, detects skill gaps, and provides personalized suggestions to help students improve their chances of landing internships and jobs.
 
-This contains everything you need to run your app locally.
+📌 Problem
 
-View your app in AI Studio: https://ai.studio/apps/a808dc45-31d4-4d2e-9d3c-c6f48984799c
+Many students face repeated job rejections because their resumes:
 
-## Run Locally
+Do not meet industry standards
 
-**Prerequisites:**  Node.js
+Lack important skills for specific roles
 
+Are not optimized for ATS (Applicant Tracking Systems)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Receive little or no feedback from recruiters
+
+💡 Solution
+
+This platform allows users to:
+
+Upload their resume (PDF / DOCX)
+
+Select a target role or paste a job description
+
+Receive instant AI-powered analysis and improvement suggestions
+
+✨ Key Features
+
+📄 Resume Upload & Parsing
+
+🤖 AI Resume Analysis
+
+📊 Resume Score (0–100)
+
+🎯 Job Description Matching
+
+🧾 ATS Compatibility Check
+
+✏️ AI Resume Bullet Improvement
+
+🧠 Skill Gap Detection
+
+🛠 Personalized Learning Roadmap
+
+💻 Project Suggestions for Missing Skills
+
+🧰 Tech Stack
+
+Frontend
+
+React.js
+
+Vite
+
+TailwindCSS
+
+Framer Motion
+
+Backend
+
+Node.js
+
+Express.js
+
+AI
+
+Gemini API / OpenAI API
+
+Database
+
+MongoDB
+
+📁 Project Structure
+frontend/
+  components/
+  pages/
+  services/
+
+backend/
+  routes/
+  controllers/
+  services/
+  utils/
+⚙️ Setup
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+🎯 Vision
+
+To build an AI-powered career guidance platform that helps students improve their resumes, develop the right skills, and become job-ready.
