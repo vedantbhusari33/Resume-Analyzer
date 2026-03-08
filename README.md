@@ -1,12 +1,26 @@
 # 🚀 AI Resume Analyzer & Skill Improvement Platform
 
-An AI-powered web application that analyzes resumes, detects skill gaps, and provides personalized suggestions to help students improve their chances of landing internships and jobs.
+AI-powered platform that analyzes resumes, detects skill gaps, and provides personalized improvement suggestions to help students land internships and jobs.
+
+---
+
+## 🎥 Project Resources
+
+📂 **Project Drive (PPT + Demo Video + Pitch Video)**  
+[Add Google Drive Link Here]
+
+---
+
+## 🌐 Live Prototype
+
+🔗 **Working Prototype / Live Demo**  
+[Add Live Website Link Here]
 
 ---
 
 ## 📌 Problem
 
-Many students face repeated job rejections because their resumes:
+Many students face job rejections because their resumes:
 
 - Do not meet industry standards  
 - Lack important skills required for specific roles  
@@ -20,7 +34,7 @@ Many students face repeated job rejections because their resumes:
 This platform allows users to:
 
 1. Upload their resume (PDF / DOCX)  
-2. Select a target job role or paste a job description  
+2. Select a target role or paste a job description  
 3. Receive instant AI-powered analysis and improvement suggestions  
 
 ---
@@ -100,4 +114,4 @@ npm run dev
 
 ## 🎯 Vision
 
-To create an **AI-powered career guidance platform** that helps students improve their resumes, identify missing skills, and become job-ready.
+To build an **AI-powered career guidance platform** that helps students improve their resumes, develop relevant skills, and become job-ready.
