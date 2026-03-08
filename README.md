@@ -1,76 +1,67 @@
-🚀 AI Resume Analyzer & Skill Improvement Platform
+# 🚀 AI Resume Analyzer & Skill Improvement Platform
 
 An AI-powered web application that analyzes resumes, detects skill gaps, and provides personalized suggestions to help students improve their chances of landing internships and jobs.
 
-📌 Problem
+---
+
+## 📌 Problem
 
 Many students face repeated job rejections because their resumes:
 
-Do not meet industry standards
+- Do not meet industry standards  
+- Lack important skills required for specific roles  
+- Are not optimized for ATS (Applicant Tracking Systems)  
+- Receive little or no feedback from recruiters  
 
-Lack important skills for specific roles
+---
 
-Are not optimized for ATS (Applicant Tracking Systems)
-
-Receive little or no feedback from recruiters
-
-💡 Solution
+## 💡 Solution
 
 This platform allows users to:
 
-Upload their resume (PDF / DOCX)
+1. Upload their resume (PDF / DOCX)  
+2. Select a target job role or paste a job description  
+3. Receive instant AI-powered analysis and improvement suggestions  
 
-Select a target role or paste a job description
+---
 
-Receive instant AI-powered analysis and improvement suggestions
+## ✨ Key Features
 
-✨ Key Features
+- 📄 Resume Upload & Parsing  
+- 🤖 AI Resume Analysis  
+- 📊 Resume Score (0–100)  
+- 🧾 ATS Compatibility Check  
+- 🎯 Job Description Matching  
+- ✏️ AI Resume Bullet Improvement  
+- 🧠 Skill Gap Detection  
+- 🛠 Personalized Skill Learning Roadmap  
+- 💻 Project Suggestions for Missing Skills  
 
-📄 Resume Upload & Parsing
+---
 
-🤖 AI Resume Analysis
+## 🧰 Tech Stack
 
-📊 Resume Score (0–100)
+**Frontend**
+- React.js  
+- Vite  
+- TailwindCSS  
+- Framer Motion  
 
-🎯 Job Description Matching
+**Backend**
+- Node.js  
+- Express.js  
 
-🧾 ATS Compatibility Check
+**AI**
+- Gemini API / OpenAI API  
 
-✏️ AI Resume Bullet Improvement
+**Database**
+- MongoDB  
 
-🧠 Skill Gap Detection
+---
 
-🛠 Personalized Learning Roadmap
+## 📁 Project Structure
 
-💻 Project Suggestions for Missing Skills
-
-🧰 Tech Stack
-
-Frontend
-
-React.js
-
-Vite
-
-TailwindCSS
-
-Framer Motion
-
-Backend
-
-Node.js
-
-Express.js
-
-AI
-
-Gemini API / OpenAI API
-
-Database
-
-MongoDB
-
-📁 Project Structure
+```
 frontend/
   components/
   pages/
@@ -81,15 +72,32 @@ backend/
   controllers/
   services/
   utils/
-⚙️ Setup
+```
 
-Install dependencies:
+---
 
+## ⚙️ Setup & Installation
+
+Clone the repository
+
+```
+git clone https://github.com/yourusername/ai-resume-analyzer.git
+```
+
+Install dependencies
+
+```
 npm install
+```
 
-Run the project:
+Run the project
 
+```
 npm run dev
-🎯 Vision
+```
 
-To build an AI-powered career guidance platform that helps students improve their resumes, develop the right skills, and become job-ready.
+---
+
+## 🎯 Vision
+
+To create an **AI-powered career guidance platform** that helps students improve their resumes, identify missing skills, and become job-ready.
