@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/14rdoWUvQAy9ugHdDo2KX-pe6F3yDO8wY
 ## 🌐 Live Prototype
 
 🔗 **Working Prototype / Live Demo**  
-[Add Live Website Link Here]
+https://resume-analyzer-tan-three.vercel.app/
 
 ---
 
